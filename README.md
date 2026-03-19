@@ -8,6 +8,9 @@ This repository contains the Re-analysis of an Undergraduate Study on the Effect
 - /notebooks: Jupyter notebooks for data analysis
 - /results: generated plots 
 
+## Tools Used
+Python (Pandas, SciPy, Matplotlib, Seaborn)
+
 ## How to Run
 1. Clone the repository
 2. Open the notebooks in Jupyter or VS Code
