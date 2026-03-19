@@ -18,7 +18,7 @@ Python (Pandas, SciPy, Matplotlib, Seaborn)
 4. Install dependencies:
    pip install pandas matplotlib seaborn scipy numpy
 5. Run each notebook in order:
-   - `notebooks/instrument_reliability.ipynb`
+   - `notebooks/reliability_analysis.ipynb`
    - `notebooks/undergraduate_project_analysis.ipynb`
 
 ## Results
