@@ -6,7 +6,9 @@ This repository contains the Re-analysis of an Undergraduate Study on the Effect
 ## Repository Structure
 - /data: datasets used for analysis
 - /notebooks: Jupyter notebooks for data analysis
-- /results: generated plots 
+- /results: generated plots
+- report_on_reanalysis_of_undergraduate_study.pdf: report
+- requirements.txt: Python dependencies
 
 ## Tools Used
 Python (Pandas, SciPy, Matplotlib, Seaborn)
@@ -16,10 +18,12 @@ Python (Pandas, SciPy, Matplotlib, Seaborn)
 2. Open the notebooks in Jupyter or VS Code
 3. Make sure you have Python 3.x installed
 4. Install dependencies:
-   pip install pandas matplotlib seaborn scipy numpy
+   ```bash
+   pip install -r requirements.txt
 5. Run each notebook in order:
    - `notebooks/reliability_analysis.ipynb`
    - `notebooks/undergraduate_project_analysis.ipynb`
 
 ## Results
 All plots are saved in the `/results` folder.
+The full report is available as report_on_reanalysis_of_undergraduate_study.pdf.
